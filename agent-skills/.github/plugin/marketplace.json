@@ -1,0 +1,48 @@
+{
+    "name": "tiis-agent-plugins",
+    "owner": {
+        "name": "株式会社豊田自動織機ITソリューションズ"
+    },
+    "skills": [
+        {
+            "name": "code-reviewer",
+            "source": "./skills/code-reviewer",
+            "version": "1.0.0"
+        },
+        {
+            "name": "generate-product-md",
+            "source": "./skills/generate-product-md",
+            "version": "1.0.0"
+        },
+        {
+            "name": "git-operations",
+            "source": "./skills/git-operations",
+            "version": "1.0.0"
+        },
+        {
+            "name": "pr-writer",
+            "source": "./skills/pr-writer",
+            "version": "1.0.0"
+        },
+        {
+            "name": "sdd-implementer",
+            "source": "./skills/sdd-implementer",
+            "version": "1.0.0"
+        },
+        {
+            "name": "structural-improvement",
+            "source": "./skills/structural-improvement",
+            "version": "1.0.0"
+        },
+        {
+            "name": "test-strategy",
+            "source": "./skills/test-strategy",
+            "version": "1.0.0"
+        },
+        {
+            "name": "development-flow",
+            "source": "./skills/development-flow",
+            "version": "1.0.0"
+        }
+    ]
+}
