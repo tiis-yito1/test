@@ -1,0 +1,14 @@
+# Node.js
+/node_modules/
+/package-lock.json
+
+# Gemini CLI
+/.gemini/
+/*.skill
+
+# Generated content
+/output/
+/content.json
+
+# OS-specific
+.DS_Store
